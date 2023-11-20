@@ -1,0 +1,12 @@
+{
+  "camera1" : {
+    "url" : "rtsp://admin:123456@192.168.1.1:554/onvif1",
+    "title" : "Garagem Interna",
+    "captures" : "/Volumes/HDD01/Cameras"
+  },
+  "camera2" : {
+    "url" : "rtsp://admin:123456@192.168.1.2:554/onvif1",
+    "title" : "Garagem externa",
+    "captures" : "/Volumes/HDD01/Cameras"
+  }
+}
